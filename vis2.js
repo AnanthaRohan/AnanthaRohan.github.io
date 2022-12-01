@@ -17,7 +17,7 @@ Promise.all([
       }));
 
     margin = ({top: 10, right: 20, bottom: 50, left: 105});
-    visWidth = 480;
+    visWidth = 481;
     visHeight = 500;
 
 var subgroups = ["DARKNESS","DARKNESS, LIGHTED ROAD","UNKNOWN","DUSK","DAWN","DAYLIGHT"];
