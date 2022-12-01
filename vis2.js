@@ -1,9 +1,11 @@
 Promise.all([
+    d3.csv("Crashes (4).csv"),
     d3.csv("y22.csv")
     // d3.csv("y005.csv")
 
 ]).then(function(files){
-    y22 = files[0]
+    data = files[0]
+    y22 = files[1]
 
     y4 = d3.rollup(data, v => v.length, d => d.CRASH_SEASON, d => d.LIGHTING_CONDITION, d => d.CRASH_YEAR)
 
