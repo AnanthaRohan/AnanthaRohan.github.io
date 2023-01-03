@@ -1,4 +1,4 @@
-# **Visualization & Visual Analytics Project-2: Traffic Crashes - Crashes**
+# **Visualization & Visual Analytics Project: Traffic Crashes - Crashes**
 
 ### **Webpage:** [link](https://anantharohan.github.io/)
 
